@@ -3,6 +3,7 @@
 问题一：anaconda3安装时，记得勾选第一个勾 
 
 答：针对新手安装，勾选该选项可以直接配置好环境 
+
 ![image](https://user-images.githubusercontent.com/92359626/143460717-993bf7d6-ead1-4bb5-b9f6-5795674450fd.png)
 
 问题二：anaconda安装时，记得选对路径
