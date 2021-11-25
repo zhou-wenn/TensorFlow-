@@ -1,0 +1,2 @@
+# TensorFlow-
+GAN的训练分为如下几个步骤： 1、随机选取batch_size个真实的图片。 2、随机生成batch_size个N维向量，传入到Generator中生成batch_size个虚假图片。 3、真实图片的label为1，虚假图片的label为0，将真实图片和虚假图片当作训练集传入到Discriminator中进行训练。 4、将虚假图片的Discriminator预测结果与1的对比作为loss对Generator进行训练（与1对比的意思是，如果Discriminator将虚假图片判断为1，说明这个生成的图片很“真实”）。 ———————————————— 版权声明：本文为CSDN博主「Bubbliiiing」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。 原文链接：https://blog.csdn.net/weixin_44791964/article/details/103729797
