@@ -19,6 +19,7 @@
 
 如下图所示，可切换兼容不同的python版本。demo为3.8，tensorflow-gpu为3.6。环境均可以自己命名。
 
+
 ![image](https://user-images.githubusercontent.com/92359626/143460752-5acfe09c-0f97-4d68-b312-c283a7368f7f.png)
 
 问题五：tensorflow库安装时，弹：Cache entry deserialization failed, entry ignored
@@ -32,6 +33,7 @@
 问题七：如何将pycharm切换成python3.6（TensorFlow-gpu）版本
 
 答：如图所示步骤，选取anaconda-evn-TensorFlow-python.exe文件
+
 ![image](https://user-images.githubusercontent.com/92359626/143460787-1d4eaeda-7480-48be-8f22-98c4aa915af2.png)
 ![image](https://user-images.githubusercontent.com/92359626/143460816-fa0528cb-53f2-430d-a8ce-e3c688108a41.png)
 ![image](https://user-images.githubusercontent.com/92359626/143460802-5f09484f-461c-46e9-b30c-96d0c54f3e24.png)
